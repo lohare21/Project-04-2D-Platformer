@@ -1,7 +1,7 @@
-# Exercise-04d-Save-and-Load
-Exercise for MSCH-C220, 14 October 2021
+# Project 04—2D Platformer
+Project 4 for MSCH-C220
 
-The fourth exercise for the 2D Platformer project, exploring save and load (in two projects).
+Collect coins, avoid enemies, and don't die. 
 
 ## Implementation
 Built using Godot 3.3.3
