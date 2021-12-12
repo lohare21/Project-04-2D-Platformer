@@ -15,6 +15,8 @@ The explosion animation is also adapted from Kenney.nl: [https://kenney.nl/asset
 ## References
 For more information about save and load in Godot, visit the Godot documentation: [https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html#saving-and-reading-data](https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html#saving-and-reading-data)
 
+Assets:htps://Kenney.nl/assets
+
 ## Future Development
 None
 
