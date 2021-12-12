@@ -81,3 +81,7 @@ func load_game():
 			save_data[section][key] = save_file.get_value(section, key, null)
 	var _scene = get_tree().change_scene_to(Game)
 	call_deferred("restart_level")
+	
+	if $AudioStreamPlayer.playing == false:
+		$AudioStreamPlayer.play()
+	pass
